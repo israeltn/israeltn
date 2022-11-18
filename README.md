@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @israeltn
 - 👀 I’m interested in FullStack Web Development 
-- 🌱 I’m currently learning NestJS, NextJs, Tailwind and Laravel
+- 🌱 I’m currently learning NestJS, NextJs, Tailwind and Laravel VueJs
 - 💞️ I’m looking to collaborate on Complex Microservice Applictions
 - 📫 How to reach me Email: tyokater@gmail.com
 

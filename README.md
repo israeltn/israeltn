@@ -1,5 +1,18 @@
 # 💫 About Me:
-👨‍💻AI and Software Security Lead Engineer with over a decade of experience in network, cloud, and web application, alongside expertise in AI applications, fine-tuning foundation model, Domain Adaptive Pretraining for Model Customisation,  I am passionate about securing digital infrastructure and architecting robust security solutions. My skills include computer networking, security frameworks (such as OWASP Top 10 for LLM, MITRE ATLAS, NIST, CSF, NCSC), and extensive experience with cloud platforms, including GCP, Azure, and AWS. I have a proven ability to lead cybersecurity research, conduct risk assessments, develop secure Software and AI applications, implement AI security guardrails and leverage AI-driven and human in the loop threat detection models.<br><br>🚀 Let’s Collaborate!<br>Open to innovative opportunities in cybersecurity and software development connect with me on GitHub or via email at tyokater@gmail.com.<br>
+
+A highly accomplished AI and Software Security Specialist with over a decade of comprehensive experience securing complex digital ecosystems, including network, cloud, and web applications. My expertise is uniquely focused on the intersection of AI and security, encompassing the entire lifecycle of secure software development and advanced AI model deployment. I am dedicated to architecting and implementing robust, future-proof security solutions.
+
+💻 Core Expertise
+Advanced AI & LLM Security: Proven ability in conducting AI security research, developing secure AI automated applications, and implementing sophisticated AI security guardrails. Expertise includes conducting risk assessments specific to AI systems and leveraging AI-driven and Human-in-the-Loop threat detection models.
+
+Foundation Model Customisation: Specialised skills in fine-tuning foundation models and implementing Domain Adaptive Pretraining (DAPT) for model customisation to achieve optimal performance and security objectives.
+
+Security Frameworks & Standards: Deep practical knowledge of leading security frameworks, including OWASP Top 10 for LLM, MITRE ATLAS, NIST Cybersecurity Framework (CSF), and NCSC guidelines.
+
+Cloud & Platform Security: Extensive hands-on experience securing major cloud platforms: Google Cloud Platform (GCP), Microsoft Azure, and Amazon Web Services (AWS), alongside foundational expertise in computer networking.
+
+🚀 Projects & Leadership
+I possess a proven track record of successfully leading AI projects from conception to secure deployment, developing secure Software applications, and translating complex security requirements into actionable, defensive strategies..<br><br>🚀 Let’s Collaborate!<br>Open to innovative opportunities in cybersecurity and software development, connect with me on GitHub or via email at tyokater@gmail.com.<br>
 
 
 ## 🌐 Socials:
